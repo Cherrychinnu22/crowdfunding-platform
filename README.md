@@ -26,7 +26,7 @@ npm install
 npm run dev
 
 ## 🚀 Usage
-- Visit `http://localhost:8000` for the backend
-- Visit `http://localhost:3000` for the frontend
+- Visit 'http://localhost:8000' for the backend
+- Visit 'http://localhost:3000' for the frontend
 - Register or log in to create/view campaigns
 - Donate to campaigns
